@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hritik1234201
+- 👀 I’m interested in: Coding, Cycling, Anime
+- 🌱 I’m currently learning: MERN Stack
+- 💞️ I’m looking to collaborate on : MERN Project
+- 📫 How to reach me : hrsharma@anteriad.com
